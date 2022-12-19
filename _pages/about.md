@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hi! Im Anthony de Rose.
+subtitle: Hello! Im Anthony de Rose.
 
 profile:
   align: right
@@ -15,9 +15,8 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I'm a passionate `software engineer`, `computer scientist` and `self-starter`. I'm happiest when I'm creating, learning and building new things from scratch. My current professional interests lie in truly understanding how full-stack engineering operates and how different moving parts coalesce together. On the side, I've been tinkering in different areas such as: competetive programming, algorithms textbooks, trying to understand programming languages and interpretors from under the hood, and develeping a basis on how computer graphics work. I hope to share my findings, writings, blogs, projects and repositories I find noteworthy here. 
 
-Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have a heavy background in computer science, having obtained my B.S. from `Rutgers University`. There I spent a lot of time studying and taking a mixed bag of electives on whatever area of computer science I found interesting. Some of my favorite classes were principles of programming languages, computer graphics, and intro to artificial intelligence. At Rutgers, I interned for a while in a research lab where the majority of my work was in image processing and automation which I found really interesting. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I'm a software engineer @ Capital One. Feel free to reach out to me!
