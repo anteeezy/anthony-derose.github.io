@@ -19,4 +19,4 @@ I'm a passionate `software engineer`, `computer scientist` and `self-starter`. I
 
 I have a heavy background in computer science, having obtained my B.S. from `Rutgers University`. There I spent a lot of time studying and taking a mixed bag of electives on whatever area of computer science I found interesting. Some of my favorite classes were principles of programming languages, computer graphics, and intro to artificial intelligence. At Rutgers, I interned for a while in a research lab where the majority of my work was in image processing and automation which I found really interesting. 
 
-Currently, I'm a software engineer @ Capital One. Feel free to reach out to me!
+Currently, I'm a `software engineer @ Capital One`. Feel free to reach out to me!
