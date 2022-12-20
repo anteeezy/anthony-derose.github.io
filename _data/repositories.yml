@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - anthony-derose
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - anthony-derose/receipterboxd
+  - anthony-derose/procedural_dungeonmaze
+  - anthony-derose/HEROKU-FLASK-REACT-BOILERPLATE
+  
